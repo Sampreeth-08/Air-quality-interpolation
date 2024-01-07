@@ -1,7 +1,7 @@
-# GEOTA PROJECT README
+# Geospatial Analysis
 
 ## Introduction
-The GEOTA project report presents a comprehensive geospatial analysis of air quality in Delhi, addressing the critical issue of air pollution in one of India's most populous and polluted cities. The primary objective was to create an interpolated air quality map for the year 2021, offering insights into pollution patterns and trends within the region.
+The project presents a comprehensive geospatial analysis of air quality in Delhi, addressing the critical issue of air pollution in one of India's most populous and polluted cities. The primary objective was to create an interpolated air quality map for the year 2021, offering insights into pollution patterns and trends within the region.
 
 ## Project Overview
 ### Data Collection and Processing
