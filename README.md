@@ -6,13 +6,16 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
 ## Project Overview
 ### Data Collection and Processing
 - **Data Source:** Air quality data from CPCB (Central Pollution Control Board) for January to December 2021.
+
 <div align="center">
 <img src="pics/scatter plot.png" width="50%" />
 </div>
+
 - **Data Description:** The collected data comprised PM2.5 values from various monitoring stations across Delhi.
 <div align="center">
 <img src="pics/air data.jpg" width="50%" />
 </div>
+
 - **Vector Operations:** Utilized QGIS software for vector operations, creating shape files that encapsulated region boundaries, industrial locations, and forests. Digitization of industries and forests facilitated detailed analysis.
 - **Raster Operations:** Employed raster operations within QGIS for processing and visualization of spatial data.
 <div align="center">
@@ -29,6 +32,7 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
 <div align="center">
 <img src="pics/Final intp.jpg" width="50%" />
 </div>
+
 ### Results and Analysis
 - **Air Quality Mapping:** Revealed higher PM2.5 levels in industrial and densely populated areas, contrasting with lower levels in forested and natural zones.
 - **Buffer Zone Analysis:** Affirmed that areas within 1 km of industries exhibited the highest PM2.5 levels, confirming industries as significant contributors to air pollution.
