@@ -10,9 +10,9 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
 - **Vector Operations:** Utilized QGIS software for vector operations, creating shape files that encapsulated region boundaries, industrial locations, and forests. Digitization of industries and forests facilitated detailed analysis.
 - **Raster Operations:** Employed raster operations within QGIS for processing and visualization of spatial data.
 
-![Air Quality Map](pics/labeled data.jpg)
-![Air Quality Map](pics/air data.jpg)
-![Air Quality Map](pics/scatter plot.png)
+![Labeled data](pics/labeled data.jpg)
+![Spatial data](pics/air data.jpg)
+![Data plot](pics/scatter plot.png)
 
 ### IDW Interpolation
 - **Method:** Implemented Inverse Distance Weighting (IDW) interpolation method to generate a continuous surface representing air quality across Delhi.
