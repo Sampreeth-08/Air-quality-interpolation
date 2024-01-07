@@ -17,7 +17,7 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
   <img src="pics/labeled data.jpg" alt="Labeled data" style="width: 50%;">
 </p -->
 <div align="center">
-<img src="pics/labeled data.jpg" width="100%" />
+<img src="pics/labeled data.jpg" width="50%" />
 </div>
 
 ### IDW Interpolation
