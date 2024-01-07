@@ -13,9 +13,12 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
 <!-- ![Labeled data](pics/labeled data.jpg) -->
 <!-- ![Spatial data](pics/air data.jpg)
 ![Data plot](pics/scatter plot.png) -->
-<p style="text-align: center;">
-  <img src="pics/labeled data.jpg" alt="Labeled data" style="width: 30%;">
-</p
+<!-- <p style="text-align: center;">
+  <img src="pics/labeled data.jpg" alt="Labeled data" style="width: 50%;">
+</p -->
+<img 
+  src="pics/labeled data.jpg"
+  style="width: 200px; margin-left: auto; margin-right: auto;">
 
 ### IDW Interpolation
 - **Method:** Implemented Inverse Distance Weighting (IDW) interpolation method to generate a continuous surface representing air quality across Delhi.
