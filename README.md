@@ -6,7 +6,10 @@ The GEOTA project report presents a comprehensive geospatial analysis of air qua
 ## Project Overview
 ### Data Collection and Processing
 - **Data Source:** Air quality data from CPCB (Central Pollution Control Board) for January to December 2021.
+![Air Quality Map](pics/labeled data.jpg)
 - **Data Description:** The collected data comprised PM2.5 values from various monitoring stations across Delhi.
+![Air Quality Map](pics/air data.jpg)
+![Air Quality Map](pics/scatter plot.png)
 - **Vector Operations:** Utilized QGIS software for vector operations, creating shape files that encapsulated region boundaries, industrial locations, and forests. Digitization of industries and forests facilitated detailed analysis.
 - **Raster Operations:** Employed raster operations within QGIS for processing and visualization of spatial data.
 
